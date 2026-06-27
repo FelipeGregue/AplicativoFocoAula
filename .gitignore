@@ -7,8 +7,6 @@ data/
 .env
 .env.*
 !.env.example
-tcc-spec.txt
-spec-pages/
 apps/**/node_modules/
 apps/**/dist/
 apps/**/data/
